@@ -8,3 +8,4 @@ G = Gog
 O = Origin
 
 then all you have todo is to start the program
+i am curently working on a more visual program for it
